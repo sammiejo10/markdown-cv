@@ -1,89 +1,80 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Samantha Stackelhouse's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Samantha Stackelhouse
 
-<div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+
+
+<a href="stackattack10@gmail.com">stackattack10@gmail.com</a>
+| <a href="https://www.linkedin.com/in/samantha-stackelhouse-2b903b188/">My Linkedin page</a>
 </div>
 
 
 ## Currently
 
-Standing on the shoulders of giants
+Masters Candidate of UC Riversides Master of Public Policy Program
 
 ### Specialized in
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+-International Relations
+-Womens Studies
+
 
 
 ### Research interests
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+-Education Policy
+-Womens Policy
+-International Policy 
 
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2017-2020`
+__UC Santa Barbara, Santa Barbara CA.__
 
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
+`September 2020 - now`
+__UC Riverside, Riverside CA__
 
 
 
 ## Awards
 
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
+`2017`
+Bank of America Student Leader 2017
 
 
 ## Occupation
 
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+`Private Tutor`
+California 
 
 
+`Senior Reports Manager at High Desert Home Inspection`
+__High Desert Home Inspection__, California
 
+## Experience
+
+`2018-2020`
+Student Ambassador
+Univeristy of California Ambassador Network
+
+`2017`
+Intern/Shelter Worker
+Family Assistance Program and Domestic Violence Shelter
+
+`2014-2017`
+Student Board Member
+County Supervisor Robert Lovingood Youth Advisory Council
+
+`2016`
+Intern
+Victor Valley Chamber of Commerce 
+
+`2014`
+Intern 
+The Office of Congressman Paul Cook
 <!-- ### Footer
 
 Last updated: May 2013 -->
